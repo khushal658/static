@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.menu li:hover{
+
+    color: red;
+    font-weight: bold;
+    text-shadow: 0px 2px 0px red;
+    
+
+}
